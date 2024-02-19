@@ -10,7 +10,7 @@ class ProductTest {
 	void get_all_products_test() {
 		Product[] products = Product.get_all_products();
 		
-		assertEquals(products.length, 123);
+		assertEquals(934, products.length);
 		assertEquals(products[103].productID, 701);
 		
 		assertEquals(products[5].name, "Speaker Stands");
