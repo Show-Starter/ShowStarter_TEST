@@ -1,4 +1,4 @@
-package com.showstarter;
+package showstarter_maven;
 
 
 import java.sql.*;

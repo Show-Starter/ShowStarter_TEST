@@ -1,4 +1,4 @@
-package com.showstarter;
+package showstarter_maven;
 
 import static org.junit.jupiter.api.Assertions.*;
 
